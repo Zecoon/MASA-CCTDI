@@ -1,0 +1,10 @@
+# MASA-CCTDI 批判性思维评估系统依赖包
+
+# OpenAI API客户端
+openai>=1.0.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# Web界面框架（仅Web版本需要）
+streamlit>=1.28.0

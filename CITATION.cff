@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  MASA-CCTDI: Multi-Agent Guided Interview for
+  Scenario-Based Assessment of Critical Thinking
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: [First Name]
+    family-names: [Last Name]
+    email: author@example.com
+    affiliation: [Your Institution]
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: [Second Author First Name]
+    family-names: [Second Author Last Name]
+    affiliation: [Institution]
+repository-code: 'https://github.com/zecoon/MASA-CCTDI'
+url: 'https://github.com/zecoon/MASA-CCTDI'
+abstract: >-
+  A CCTDI (California Critical Thinking Disposition Inventory)
+  automated assessment system based on a four-agent collaboration
+  architecture. The core innovation is transforming the traditional
+  70-question questionnaire assessment into an intelligent natural
+  conversation assessment through AI-driven multi-agent collaboration,
+  achieving more humanized and contextualized critical thinking
+  ability assessment.
+keywords:
+  - critical thinking
+  - CCTDI
+  - multi-agent system
+  - assessment
+  - natural language processing
+  - LLM
+  - educational technology
+license: Apache-2.0
+version: 1.0.0
+date-released: '2024-10-12'
+references:
+  - type: article
+    title: >-
+      MASA: Multi-Agent Guided Interview for Scenario-Based
+      Assessment of Critical Thinking
+    authors:
+      - given-names: [First Name]
+        family-names: [Last Name]
+    year: 2024
+    conference:
+      name: '[Conference/Journal Name]'
+    doi: '[DOI if available]'

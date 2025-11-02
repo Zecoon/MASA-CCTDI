@@ -1,0 +1,57 @@
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 运行时生成的数据文件
+data/conversations/*.csv
+data/assessments/*.json
+data/user_scores.csv
+
+# IDE配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 测试和覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# 分发和打包
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 日志文件
+*.log
+logs/
+
+# Streamlit缓存
+.streamlit/
