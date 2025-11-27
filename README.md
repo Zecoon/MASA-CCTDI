@@ -3,6 +3,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
 
+<div align="center">
+  <img src="fig1.png" alt="MASA-CCTDI 系统架构" width="100%">
+  <p><em>图1: MASA-CCTDI 多智能体协作评估系统架构</em></p>
+</div>
+
 ## 📖 项目简介
 
 这是一个基于**四智能体协作架构**的CCTDI（California Critical Thinking Disposition Inventory，加利福尼亚批判性思维倾向量表）自动化评估系统。
